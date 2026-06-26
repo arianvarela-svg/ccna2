@@ -532,7 +532,7 @@ COREBABA/GLOBE:
 config t
 hostname corebabaGLOBE
 Int vlan 1
-standby 1 ip 10.3232.1.6
+standby 1 ip 10.32.1.6
 standby 1 preempt
 standby 1 Priority 100
 end
